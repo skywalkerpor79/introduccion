@@ -59,7 +59,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
-#HOLA
+#HOLA neng
 ROOT_URLCONF = 'core.urls'
 
 TEMPLATES = [
